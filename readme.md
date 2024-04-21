@@ -1,3 +1,4 @@
+## Comparaciones de variables
 * Variable a es igual a variable b: a == b.
 * Variable a es distinta a variable b: a != b.
 * Variable a es mayor o igual que variable b: a >= b.
