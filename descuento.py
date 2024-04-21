@@ -1,3 +1,7 @@
+""" 
+programa de descuento
+"""
+
 precio=int(input("Ingrese el precio:\n "))
 descuento=int(input("Ingresa un descuento:\n "))
 # se realiza descuento
