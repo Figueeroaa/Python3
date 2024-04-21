@@ -5,7 +5,7 @@
 * Variable a es mayor que variable b: a > b.
 * Variable a es menor que variable b: a < b.
 
-! Operadores Matematicos
+## Operadores Matematicos
 * a + b: Si a y b son de tipo int o float, entrega la suma de ambos. Si a y b son de tipo str, entrega la
 * concatenacion de ambos.
 * a - b: Si a y b son de tipo int o float, entrega la resta de ambos.
